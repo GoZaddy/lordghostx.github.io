@@ -20,12 +20,11 @@ git clone https://github.com/lordghostx/lordghostx.github.io
 
 * HTML
 * CSS
-* SCSS
+* Bootstrap
 
 ## Authors
 
-* **ItBruno** - *Initial work* - [https://codepen.io/itbruno/pen/KwarLp/](https://codepen.io/itbruno/pen/KwarLp/)
-* **LordGhostX** - *Finishing* - [https://github.com/LordGhostX](https://github.com/LordGhostX)
+* [**LordGhostX**](https://github.com/LordGhostX)
 
 ## License
 
