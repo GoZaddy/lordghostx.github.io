@@ -1,4 +1,4 @@
-# LordGhostX Timeline
+# GoZaddy's Timeline
 
 Welcome to my Timeline, nothing fancy here it's more like a diary where stuffs are going to be dumped because I don't want to forget them.
 
@@ -21,10 +21,6 @@ git clone https://github.com/lordghostx/lordghostx.github.io
 * HTML
 * CSS
 * Bootstrap
-
-## Authors
-
-* [**LordGhostX**](https://github.com/LordGhostX)
 
 ## License
 
